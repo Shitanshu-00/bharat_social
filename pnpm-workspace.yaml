@@ -1,0 +1,10 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+allowBuilds:
+  '@firebase/util': true
+  '@prisma/engines': true
+  argon2: true
+  prisma: true
+  protobufjs: true
+  unrs-resolver: true
